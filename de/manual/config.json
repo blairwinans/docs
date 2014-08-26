@@ -178,7 +178,8 @@
                                     "payment-method-postfinance": {
                                         "type": "regular",
                                         "alias": "zahlungsart-postfinance",
-                                        "title": "PostFinance"
+                                        "title": "PostFinance",
+                                        "new": "2014-05-02"
                                     },
                                     "payment-method-viveum": {
                                         "type": "regular",
